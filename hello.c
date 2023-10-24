@@ -4,8 +4,8 @@ int main()
 {
 	printf("hello git\n");
 
-	printf("freature\n");
 
+	printf("change\n");
 
 	return 0;
 }
